@@ -26,4 +26,4 @@ Five buttons are mapped to simulate keyboard actions:
 
 **Page Up**
 
-**credit [techiesms]([https://github.com/techiesms](https://github.com/techiesms/BLE-Remote-by-techiesms-)) **
+**credit [techiesms]([https://github.com/techiesms](https://github.com/techiesms/BLE-Remote-by-techiesms-) **
