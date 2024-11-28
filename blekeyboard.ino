@@ -1,4 +1,4 @@
-// Includ BLE BleKeyboard library
+// Includ BLE BleKeyboard library for esp32 woorm board.
 #include <BleKeyboard.h>
 // RBG led pin definition
 #define G 15
