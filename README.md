@@ -26,39 +26,4 @@ Five buttons are mapped to simulate keyboard actions:
 
 **Page Up**
 
-**Hardware Requirements**
-
-ESP32 Development Board.
-
-RGB LED
-
-Five Push Buttons
-
-Resistors (10kΩ recommended for buttons)
-
-Connecting wires and breadboard
-
-**Circuit Diagram**
-
-**RGB LED Pins:**
-
-Red → GPIO 2
-
-Green → GPIO 15
-
-Blue → GPIO 4
-
-**Button Pins:**
-
-Up → GPIO 13
-
-Down → GPIO 26
-
-Left → GPIO 12
-
-Right → GPIO 27
-
-Center → GPIO 14
-
-*Connect all button pins to GPIOs with pull-up configuration and one leg to the ground.*
-
+**credit [techiesms](https://github.com/techiesms) **
